@@ -1,2 +1,3 @@
 # careerflow-system
-Phase 1 involves
+
+Phase 1 initializing
